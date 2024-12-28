@@ -12,7 +12,7 @@
 
 ❤️ Tenho como hobby assistir documentarios.
 
-📚 graduado em Análise e Desenvolvimento de sistemas pela Faculdade Pitágoras.
+📚 De volta à faculdade para a segunda graduação em Ciência da Computação na Faculdade de São João del-Rei.
 
 
 
