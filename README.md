@@ -6,9 +6,9 @@
 
 
 
-🎂 Tenho 29 anos, nasci em:04/01/1995
+🎂 Tenho 30 anos, nasci em:04/01/1995
 
-🏡 Moro em Nepomuceno, MG.
+🏡 Moro em São João Del Rei, MG.
 
 ❤️ Tenho como hobby assistir documentarios.
 
