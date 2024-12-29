@@ -61,8 +61,6 @@
 
 <br>
 
-<br>
-
 <p align="center">
   
   <a target="_blank" href="https://www.linkedin.com/in/andre-henrique-martins/">
@@ -76,7 +74,7 @@
 </a>
   
 </p>
-
+<br>
 
 
 <hr>
