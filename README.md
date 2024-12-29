@@ -24,10 +24,8 @@
 
 - 🌐 &nbsp; HTML | CSS | Java | Spring Web MVC | API RESTful | Spring Boot|
 
-
+- 🛢 &nbsp; MySQL | PostgreSQL | Sql Server |  MariaDB 
 <!--
-
-- 🛢 &nbsp; MySQL | MongoDB | Saql Server
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
