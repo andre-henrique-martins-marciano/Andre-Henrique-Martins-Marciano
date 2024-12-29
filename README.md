@@ -20,11 +20,11 @@
 
 
 
-- 💻 &nbsp; Java | C# |SQL Server| MySQL |
+💻 &nbsp; Java | C# |SQL Server| MySQL |
 
-- 🌐 &nbsp; HTML | CSS | Java | Spring Web MVC | API RESTful | Spring Boot|
+🌐 &nbsp; HTML | CSS | Java | Spring Web MVC | API RESTful | Spring Boot|
 
-- 🛢 &nbsp; MySQL | PostgreSQL | Sql Server |  MariaDB 
+🛢 &nbsp; MySQL | PostgreSQL | Sql Server |  MariaDB 
 <!--
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
@@ -37,7 +37,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; | docker | kubernetes | Kafka |
+🔧 &nbsp; | docker | kubernetes | Kafka |
 
 <hr>
 
