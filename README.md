@@ -1,58 +1,48 @@
-### Olá👋🏾<h2> Sou André Henrique</h2>
+# Olá, eu sou André Henrique Martins Marciano 👋
 
+Acredito que a trajetória profissional vai muito além de cargos e certificações. Para mim, trata-se de pessoas, de propósito e de evolução constante — e é justamente isso que me move no mundo da tecnologia.
 
+---
 
-<h3> 💻 About Me </h3>
+## Sobre mim
 
+Ao longo da minha caminhada, aprendi que não há crescimento sem curiosidade, nem bons resultados sem colaboração. Trabalhar com linguagens como **Python** e construir soluções com frameworks como **Django** e **Flask** reforçou em mim a importância de unir técnica e empatia para resolver problemas reais.
 
+Gosto de ouvir com atenção, analisar cenários e transformar ideias em produtos funcionais. Para isso, uso ferramentas como **Docker**, **Kubernetes**, **Apache Kafka** e **Microsoft Azure**, garantindo escalabilidade, eficiência e segurança, tanto em ambientes locais quanto em cloud computing.
 
-🎂 Tenho 30 anos, nasci em:04/01/1995
+---
 
-🏡 Moro em São João Del Rei, MG.
+## Experiência técnica
 
-❤️ Tenho como hobby assistir documentarios.
+- Bancos de dados: **PostgreSQL**, **MySQL**, **SQL Server**, **MongoDB**
+- APIs e Web: **REST APIs**, **Django REST Framework**, **HTML**, **CSS**
+- Testes automatizados: **Pytest**
+- Controle de versão: **Git**, **GitHub**, **GitLab**
+- Ambientes de desenvolvimento: **VS Code**, **PyCharm**
+- Gestão de projetos: acompanhamento de prazos, escopo e prioridades em equipe
 
-📚 De volta à faculdade para a segunda graduação em Ciência da Computação na Faculdade de São João del-Rei.
+---
 
+## Minha filosofia
 
+No desenvolvimento de software, valorizo qualidade e confiabilidade, sempre buscando boas práticas e aprendizado contínuo. Tenho orgulho dos desafios que enfrentei, dos conhecimentos que adquiri e das conexões que me transformaram como profissional e pessoa.
 
-<h3>🛠 Tech Stack</h3>
+Hoje, mais do que um título, me vejo como alguém comprometido em agregar valor por onde passo, combinando conhecimento técnico com ética, respeito e vontade de aprender sempre.
 
+---
 
+## Vamos conversar?
 
-💻 &nbsp; Java | C# |SQL Server| MySQL |
+Estou por aqui para trocar ideias, somar em projetos e, quem sabe, construir novas possibilidades junto de quem também acredita na força da caminhada.
 
-🌐 &nbsp; HTML | CSS | Java | Spring Web MVC | API RESTful | Spring Boot|
+---
 
-🛢 &nbsp; MySQL | PostgreSQL | Sql Server |  MariaDB 
-<!--
+**Contato:**  
+[Seu LinkedIn] | [Seu Email] | [Outros contatos]
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+---
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
-
-
-<h3>🛠 To Learn</h3>
-
-🔧 &nbsp; | docker | kubernetes | Kafka |
-
-<hr>
-
-
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-henrique-martins-marciano&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-henrique-martins-marciano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
-
-<hr>
-
+*Obrigado por visitar meu perfil! 🚀*
 
 
 <h3>🤳🏿 Connect with Me </h3>
