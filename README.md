@@ -41,7 +41,7 @@ Estou aqui para trocar ideias, ajudar em projetos e criar coisas novas junto com
 
 <p align="center">
   
-  <a target="_blank" href="https://www.linkedin.com/in/andre-henrique-martins/">
+  <a target="_blank" href="https:/https://www.linkedin.com/in/andre-h-martins-marciano/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5535999730096">
