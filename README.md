@@ -37,13 +37,6 @@ Estou aqui para trocar ideias, ajudar em projetos e criar coisas novas junto com
 
 ---
 
-**Contato:**  
-[Seu LinkedIn] | [Seu Email] | [Outros contatos]
-
----
-
-*Obrigado por visitar meu perfil! Vamos juntos! 🚀*
-
 <br>
 
 <p align="center">
@@ -60,3 +53,7 @@ Estou aqui para trocar ideias, ajudar em projetos e criar coisas novas junto com
   
 </p>
 <br>
+
+---
+
+*Obrigado por visitar meu perfil! Vamos juntos! 🚀*
