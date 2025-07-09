@@ -56,4 +56,4 @@ Estou aqui para trocar ideias, ajudar em projetos e criar coisas novas junto com
 
 ---
 
-*Obrigado por visitar meu perfil! Vamos juntos! 🚀*
+*Obrigado por visitar meu perfil! Vamos juntos! *
