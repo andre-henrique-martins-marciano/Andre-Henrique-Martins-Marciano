@@ -1,4 +1,4 @@
-# Olá, eu sou André Henrique Martins Marciano 👋
+# Olá, eu sou André Henrique Martins Marciano 
 
 Para mim, carreira não é só sobre cargos ou certificados. É sobre pessoas, propósito e estar sempre aprendendo. É isso que me motiva no mundo da tecnologia.
 
