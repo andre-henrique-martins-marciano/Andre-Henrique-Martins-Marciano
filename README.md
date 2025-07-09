@@ -18,7 +18,7 @@ Gosto de ouvir, entender situações e transformar ideias em coisas que funciona
 - Criação de APIs e sites: **REST APIs**, **Django REST Framework**, **HTML**, **CSS**
 - Testes automáticos: **Pytest**
 - Controle de versões: **Git**, **GitHub**, **GitLab**
-- Ambientes para programar: **VS Code**, **PyCharm**
+- Ambientes para programar: **VS Code**, **PyCharm**, **NetBeans**, **Code ::Blocks**, **Eclipse**
 - Organização e gestão de projetos, para cumprir prazos e trabalhar bem em equipe
 
 ---
