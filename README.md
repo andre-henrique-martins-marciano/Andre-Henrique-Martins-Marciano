@@ -1,6 +1,6 @@
 # Olá, eu sou André Henrique Martins Marciano 
 
-Para mim, carreira não é só sobre cargos ou certificados. É sobre pessoas, propósito e estar sempre aprendendo. É isso que me motiva no mundo da tecnologia.
+"Pra mim, carreira não se resume a cargos ou diplomas. É sobre pessoas, propósito e a vontade constante de aprender. É isso que me inspira na tecnologia: crescer junto com os outros e fazer a diferença no caminho."
 
 ---
 
