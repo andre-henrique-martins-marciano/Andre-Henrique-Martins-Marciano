@@ -6,7 +6,13 @@
 
 ## Sobre mim
 
-Durante minha jornada, aprendi que crescer depende da curiosidade e de trabalhar junto com os outros. Programar em **Python** e usar ferramentas como **Django** e **Flask** me mostrou como é importante juntar técnica e cuidado para resolver problemas reais.
+Durante minha jornada na tecnologia, aprendi que crescer vai muito além de dominar ferramentas — é sobre manter a curiosidade viva e saber caminhar junto com outras pessoas. Desde os primeiros passos com Python até a construção de sistemas mais robustos com Django e Flask, fui entendendo que programar é, acima de tudo, um jeito de cuidar: de quem usa, de quem desenvolve junto, e de quem confia no que a gente constrói.
+
+Com o tempo, percebi que escutar bem é tão importante quanto saber codar. Gosto de entender as situações com calma, mergulhar nos problemas reais e, a partir disso, transformar ideias em soluções que realmente funcionam — simples, eficientes e com propósito.
+
+Para tornar isso possível, conto com ferramentas que me ajudam a dar escala e segurança ao que crio: Docker, Kubernetes, Apache Kafka e Microsoft Azure fazem parte do meu dia a dia, ajudando a levar projetos para o ar de forma estável, rápida e preparada tanto para rodar localmente quanto na nuvem.
+
+Mais do que entregar código, meu compromisso é com experiências reais, colaborativas e que façam sentido para as pessoas. Porque, no fim, é isso que a tecnologia deve fazer: aproximar, facilitar e transformar.
 
 Gosto de ouvir, entender situações e transformar ideias em coisas que funcionam de verdade. Uso ferramentas como **Docker**, **Kubernetes**, **Apache Kafka** e **Microsoft Azure** para deixar os projetos rápidos, seguros e que funcionem bem, seja no computador ou na nuvem.
 
