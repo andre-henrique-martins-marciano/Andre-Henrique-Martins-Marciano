@@ -1,41 +1,25 @@
 # Olá, eu sou André Henrique Martins Marciano 
 
-"Pra mim, carreira não se resume a cargos ou diplomas. É sobre pessoas, propósito e a vontade constante de aprender. É isso que me inspira na tecnologia: crescer junto com os outros e fazer a diferença no caminho."
-
----
-
-## Sobre mim
-
-Durante minha jornada na tecnologia, aprendi que crescer vai muito além de dominar ferramentas — é sobre manter a curiosidade viva e saber caminhar junto com outras pessoas. Desde os primeiros passos com Python até a construção de sistemas mais robustos com Django e Flask, fui entendendo que programar é, acima de tudo, um jeito de cuidar: de quem usa, de quem desenvolve junto, e de quem confia no que a gente constrói.
-
-Com o tempo, percebi que escutar bem é tão importante quanto saber codar. Gosto de entender as situações com calma, mergulhar nos problemas reais e, a partir disso, transformar ideias em soluções que realmente funcionam — simples, eficientes e com propósito.
-
-Para tornar isso possível, conto com ferramentas que me ajudam a dar escala e segurança ao que crio: Docker, Kubernetes, Apache Kafka e Microsoft Azure fazem parte do meu dia a dia, ajudando a levar projetos para o ar de forma estável, rápida e preparada tanto para rodar localmente quanto na nuvem.
-
-Mais do que entregar código, meu compromisso é com experiências reais, colaborativas e que façam sentido para as pessoas. Porque, no fim, é isso que a tecnologia deve fazer: aproximar, facilitar e transformar.
-
-Gosto de ouvir, entender situações e transformar ideias em coisas que funcionam de verdade. Uso ferramentas como **Docker**, **Kubernetes**, **Apache Kafka** e **Microsoft Azure** para deixar os projetos rápidos, seguros e que funcionem bem, seja no computador ou na nuvem.
-
----
-
-## O que sei fazer
-
-- Bancos de dados: **PostgreSQL**, **MySQL**, **SQL Server**, **MongoDB**
-- Criação de APIs e sites: **REST APIs**, **Django REST Framework**, **HTML**, **CSS**
-- Testes automáticos: **Pytest**
-- Controle de versões: **Git**, **GitHub**, **GitLab**
-- Ambientes para programar: **VS Code**, **PyCharm**, **NetBeans**, **Code ::Blocks**, **Eclipse**
-- Organização e gestão de projetos, para cumprir prazos e trabalhar bem em equipe
-
----
-
-## Como trabalho
-
-Valorizo sempre fazer um trabalho de qualidade e confiável. Acho que aprender sempre é essencial. Tenho orgulho dos desafios que já superei e das pessoas que conheci nesse caminho.
-
-Mais que um título, quero ser alguém que ajuda, respeita e está sempre aberto para aprender.
-
----
+Sou Desenvolvedor Full Stack Python Júnior, formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera e atualmente cursando Ciência da Computação pela UFSJ.
+Atuo no desenvolvimento de aplicações web completas, trabalhando tanto no backend quanto no frontend, participando de todo o ciclo de vida do software — da modelagem à implementação, integração e preparação para produção.
+Tenho foco em aprendizado prático, desenvolvendo projetos reais publicados no GitHub, onde aplico boas práticas de arquitetura, versionamento, documentação e organização de código, sempre buscando soluções escaláveis, bem estruturadas e eficientes.
+________________________________________
+💻 Backend
+•	Desenvolvimento de APIs REST com Python (Django e Flask)
+•	Modelagem de dados e estruturação de aplicações backend
+•	Boas práticas de segurança, manutenibilidade e arquitetura de software
+🎨 Frontend
+•	Desenvolvimento de interfaces modernas e responsivas com React
+•	Consumo e integração de APIs REST
+•	Foco em usabilidade e experiência do usuário (UX)
+⚙️ Infraestrutura e Arquitetura
+•	Containerização de aplicações com Docker
+•	Estudos práticos de Kubernetes
+•	Uso de Kafka para processamento de dados em tempo real
+•	Estudos iniciais em AWS e Azure, compreendendo o fluxo completo da aplicação até a produção
+________________________________________
+📌 Objetivo profissional
+Busco oportunidades como Desenvolvedor Full Stack Júnior, onde eu possa crescer tecnicamente, contribuir com soluções de ponta a ponta e evoluir junto a times experientes.
 
 ## Vamos conversar?
 
