@@ -17,7 +17,7 @@ Atuo no desenvolvimento de aplicações web completas, participando de todo o ci
 
 #### 🎨 Frontend
 - **Frameworks:** React.js
-- **Web:** HTML5, CSS3, JavaScript (ES6+)
+- **Web:** HTML5, CSS3
 - **UX/UI:** Interfaces modernas, responsivas e foco na experiência do usuário
 
 #### ⚙️ Infraestrutura & Cloud
