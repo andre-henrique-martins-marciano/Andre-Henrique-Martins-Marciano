@@ -3,10 +3,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/andre-h-martins-marciano/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ahmartinsm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:ahmartinsm@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
   <a href="https://api.whatsapp.com/send?phone=5535999730096" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
