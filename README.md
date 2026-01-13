@@ -8,10 +8,12 @@ ________________________________________
 •	Desenvolvimento de APIs REST com Python (Django e Flask)
 •	Modelagem de dados e estruturação de aplicações backend
 •	Boas práticas de segurança, manutenibilidade e arquitetura de software
+________________________________________
 🎨 Frontend
 •	Desenvolvimento de interfaces modernas e responsivas com React
 •	Consumo e integração de APIs REST
 •	Foco em usabilidade e experiência do usuário (UX)
+________________________________________
 ⚙️ Infraestrutura e Arquitetura
 •	Containerização de aplicações com Docker
 •	Estudos práticos de Kubernetes
