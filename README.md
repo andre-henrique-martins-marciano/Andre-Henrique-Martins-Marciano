@@ -38,18 +38,16 @@ Atuo no desenvolvimento de aplicações web completas, participando de todo o ci
 ### 📊 Estatísticas
 <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=andre-henrique-martins-marciano&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=andre-henrique-martins-marciano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="165em"
     alt="GitHub Stats"
   />
   <img
-    height="180em"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andre-henrique-martins-marciano&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    height="165em"
     alt="Top Languages"
   />
 </p>
-
-
 
 
 ---
