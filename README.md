@@ -1,13 +1,5 @@
 # Olá, eu sou André Henrique Martins Marciano 👋
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/andre-h-martins-marciano/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  <a href="https://api.whatsapp.com/send?phone=5535999730096" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
 
 ### 🚀 Sobre Mim
 Sou **Desenvolvedor Full Stack Python Júnior**. Formado em **Análise e Desenvolvimento de Sistemas** (Anhanguera) e atualmente graduando em **Ciência da Computação** pela **UFSJ**.
@@ -55,3 +47,11 @@ Estou sempre aberto a trocar ideias, colaborar em projetos desafiadores ou simpl
 
 ---
 *Obrigado por visitar meu perfil! 🚀*
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/andre-h-martins-marciano/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://api.whatsapp.com/send?phone=5535999730096" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
