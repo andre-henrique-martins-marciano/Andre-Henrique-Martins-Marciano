@@ -25,17 +25,6 @@ Atuo no desenvolvimento de aplicações web completas, participando de todo o ci
 - **Mensageria:** Apache Kafka (Processamento em tempo real)
 - **Cloud:** Estudos iniciais em AWS e Azure
 
----
-
-### 📊 Estatísticas
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andre-henrique-martins-marciano&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    height="165em"
-    alt="Top Languages"
-  />
-</p>
-
 
 ---
 
