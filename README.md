@@ -20,7 +20,7 @@ Atuo no desenvolvimento de aplicações web completas, participando de todo o ci
 - **Web:** HTML5, CSS3
 - **UX/UI:** Interfaces modernas, responsivas e foco na experiência do usuário
 
-#### ⚙️ Infraestrutura & Cloud
+#### Infraestrutura & Cloud
 - **Containers:** Docker & Estudos em Kubernetes
 - **Mensageria:** Apache Kafka (Processamento em tempo real)
 - **Cloud:** Estudos iniciais em AWS e Azure
