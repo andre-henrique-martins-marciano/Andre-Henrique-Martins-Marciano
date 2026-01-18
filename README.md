@@ -1,21 +1,21 @@
-# Olá, eu sou André Henrique Martins Marciano 👋
+# Olá, eu sou André Henrique Martins Marciano
 
 
-### 🚀 Sobre Mim
+### Sobre Mim
 Sou **Desenvolvedor Full Stack Python Júnior**. Formado em **Análise e Desenvolvimento de Sistemas** (Anhanguera) e atualmente graduando em **Ciência da Computação** pela **UFSJ**.
 
 Atuo no desenvolvimento de aplicações web completas, participando de todo o ciclo de vida do software — da modelagem à implementação, integração e deploy. Tenho foco em boas práticas de arquitetura, versionamento (Git) e código escalável.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
-#### 🔙 Backend
+#### Backend
 - **Linguagens & Frameworks:** Python (Django, Flask, FastAPI)
 - **APIs:** Desenvolvimento de APIs RESTful
 - **Arquitetura:** Modelagem de dados, segurança e manutenibilidade
 
-#### 🎨 Frontend
+#### Frontend
 - **Frameworks:** React.js
 - **Web:** HTML5, CSS3
 - **UX/UI:** Interfaces modernas, responsivas e foco na experiência do usuário
@@ -28,10 +28,10 @@ Atuo no desenvolvimento de aplicações web completas, participando de todo o ci
 
 ---
 
-### 📌 Objetivo Profissional
+### Objetivo Profissional
 Busco oportunidades como **Desenvolvedor Full Stack Júnior**, onde eu possa crescer tecnicamente, contribuir com soluções de ponta a ponta e evoluir junto a times experientes.
 
-### 💬 Vamos conversar?
+### Vamos conversar?
 Estou sempre aberto a trocar ideias, colaborar em projetos desafiadores ou simplesmente fazer networking.
 
 ---
